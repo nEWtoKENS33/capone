@@ -1127,7 +1127,7 @@ body.ie ._ibg img {
 
 .footer {
   position: relative;
-  min-height: 1140px;
+  min-height: 100vw;
   display: flex;
   flex-direction: column;
 }
